@@ -38,7 +38,6 @@ main {
 }
 
 footer {
-    width: 100%;
     background: linear-gradient(180deg, rgba(195,44,44,1) 0%, rgba(236,158,5,1) 100%);
     color: white;
     padding: 20px;
