@@ -20,3 +20,19 @@ main {
     width: 80vw;
     margin: 10vh auto;
 }
+
+.profile-picture {
+    margin: 0px auto;
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    overflow: hidden;
+    /* Agregamos un borde blanco */
+    border: 8px solid #000;
+}
+
+.profile-picture img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
