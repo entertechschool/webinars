@@ -1,5 +1,7 @@
 # Bruno Díaz
-Hola a todos
+Tengo 34 años.
+
+![Foto de Bruno](./foto_bruno_400x400.png)
 
 ## Experiencia Profesional
 
