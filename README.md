@@ -1,18 +1,7 @@
-# Bruno Díaz
-Tengo 34 años.
+# Webinars by Enter Tech School
 
-![Foto de Bruno](./foto_bruno_400x400.png)
+En esta repo, encontrarás el código fuente de todos los proyectos que realizamos en nuestros webinars exclusivos para nuestra comunidad Enter.
 
-## Experiencia Profesional
+### ¿Quieres ser parte de nuestros webinars?
 
-- Enter Tech School
-- Guvery
-- Interbank
-
-## Proyectos
-
-- bmappr
-- enterbase
-- guvery
-- bebelet
-
+Subscríbete gratuitamente. Contáctanos en [www.enter.edu.pe](https://www.enter.edu.pe)
